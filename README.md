@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Discord Presence](https://lanyard.cnrad.dev/api/341812664235720705&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/341812664235720705)
+[![Discord Presence](https://lanyard.cnrad.dev/api/341812664235720705?idleMessage=Enjoying real life)](https://discord.com/users/341812664235720705?idleMessage=Enjoying real life)
 <!--
 **pta201/pta201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
