@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/341812664235720705?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Enjoying real life :D)](https://discord.com/users/341812664235720705)
 <!--
 **pta201/pta201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
